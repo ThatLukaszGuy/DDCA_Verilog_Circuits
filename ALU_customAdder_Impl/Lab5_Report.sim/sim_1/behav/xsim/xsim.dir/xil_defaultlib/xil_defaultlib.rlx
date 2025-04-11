@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+//d.ethz.ch/users/all/lbrause/Desktop/lab6_files/ALU_test.v,1744371633,verilog,,,,ALU_test,,,,,,,,
+C:/Users/lbrause/Lab5_Report/Lab5_Report.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/ALU.v,1744372618,verilog,,C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/FourBitAdder.v,,ALU,,,,,,,,
+C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/FourBitAdder.v,1743770157,verilog,,C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/FullAdder.v,,FourBitAdder,,,,,,,,
+C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/FullAdder.v,1744372339,verilog,,C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/SingleAdder.v,,FullAdder,,,,,,,,
+C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/SingleAdder.v,1743770117,verilog,,C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/top.v,,SingleAdder,,,,,,,,
+C:/Users/lbrause/Lab5_Report/Lab5_Report.srcs/sources_1/new/top.v,1743771256,verilog,,//d.ethz.ch/users/all/lbrause/Desktop/lab6_files/ALU_test.v,,top,,,,,,,,

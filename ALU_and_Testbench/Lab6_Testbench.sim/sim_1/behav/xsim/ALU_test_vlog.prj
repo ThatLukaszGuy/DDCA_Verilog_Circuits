@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"//d.ethz.ch/users/all/lbrause/Desktop/lab6_files/bad_ALU.v" \
+"../../../../../Lab5_ALU/Lab5_ALU.srcs/sources_1/new/top.v" \
+"//d.ethz.ch/users/all/lbrause/Desktop/lab6_files/ALU_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
