@@ -1,6 +1,6 @@
 .text
 main:
-        # Lab Report 7 Jakubowski , Brause
+        # Lab Report 7
         # We assume we get 6 args and not 2 for the function like in lab7 
         # to make the testing environment simpler we just implemented the function itself
         # with taking 6 parameters and how this works with the default 4 provided registers
